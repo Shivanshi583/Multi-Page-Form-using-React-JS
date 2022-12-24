@@ -1,0 +1,38 @@
+.greeting4{
+    margin-top: 125px;
+    width: 832px;
+height: 38px;
+margin-left: 90px;
+
+
+margin-left: 25px;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+
+}
+
+.review__content{
+    width:736px;
+height: 238px;
+margin-top: 25px;
+display: flex;
+flex-direction: column;
+
+
+
+background: #fff;
+border-radius: 10px;
+}
+
+
+.review__tag{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    margin-left: 50px;
+    margin-right:50px;
+}
+
+
